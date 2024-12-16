@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10710450014",
+    "project_id": "fyp2-4f235",
+    "storage_bucket": "fyp2-4f235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10710450014:android:17678f20308c4f011b19cf",
+        "android_client_info": {
+          "package_name": "com.example.meddiag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QUlvx4USlmlPdkRUjOCHGFANpiUlWbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

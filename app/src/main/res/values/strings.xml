@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MedDiag</string>
+    <string name="diagnosis_image">Diagnosis Image</string>
+    <string name="diagnosis_result">Diagnosis Result</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="diagnosis_image_desc">Image related to the diagnosis</string>
+    <!-- Add any other missing strings here -->
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
